@@ -5,6 +5,7 @@
 dist
 coverage
 node_modules
+shrinkwrap.yaml
 test_pdfs
 yarn.lock
 npm-debug.log
