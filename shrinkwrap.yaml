@@ -6317,7 +6317,7 @@ specifiers:
   '@babel/core': ^7.5.5
   '@babel/plugin-proposal-export-default-from': ^7.2.0
   babel-eslint: ^10.0.0
-  core-js: '3'
+  core-js: ^3.6.2
   country-code-to-flag-emoji: ^1.1.0
   eslint: ^6.1.0
   eslint-config-airbnb: ^18.0.0
@@ -6331,6 +6331,6 @@ specifiers:
   merge-class-names: ^1.3.0
   parcel-bundler: ^1.12.4
   prop-types: ^15.6.2
-  react: ^16.8.0
+  react: ^16.12.0
   react-dom: ^16.8.0
   rimraf: ^3.0.0
